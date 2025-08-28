@@ -31,4 +31,4 @@ Docker | AWS (básico)
 
 ## 📫 Contato
 - [LinkedIn](linkedin.com/in/pedro-henrique-da-/) 🔗 
-- [Email profissional](mail:pedroalvesx.64@gmail.com) 
+- [Email profissional](mailto:pedroalvesx.64@gmail.com) 
