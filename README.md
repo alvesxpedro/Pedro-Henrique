@@ -1,6 +1,7 @@
 # Olá, me chamo Pedro Henrique! 👋
 
 Analista de Suporte | Técnico em Desenvolvimento de Sistemas | #OpenToWork 
+
 Apaixonado por dados e estudando Analise e Engenharia de Dados 
 
 ## 🧑‍💻 Sobre mim
